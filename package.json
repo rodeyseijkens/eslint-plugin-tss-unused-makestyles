@@ -1,0 +1,35 @@
+{
+  "name": "eslint-plugin-tss-unused-makestyles",
+  "version": "0.0.0",
+  "description": "eslint plugin to detect unused tss-react makestyles",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodeyseijkens/eslint-plugin-tss-unused-makestyles.git"
+  },
+  "keywords": [
+    "eslint",
+    "tss-react",
+    "material-ui",
+    "mui",
+    "jss"
+  ],
+  "author": "Rodey Seijkens, u/rodeyseijkens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodeyseijkens/eslint-plugin-tss-unused-makestyles/issues"
+  },
+  "homepage": "https://github.com/rodeyseijkens/eslint-plugin-tss-unused-classes#readme",
+  "peerDependencies": {
+    "eslint": "^7.14.0 || ^8.0.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^4.9.0",
+    "eslint": "^7.14.0",
+    "mocha": "^8.2.1",
+    "typescript": "^4.1.2"
+  }
+}
