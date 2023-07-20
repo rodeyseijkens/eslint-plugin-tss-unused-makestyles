@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-tss-unused-makestyles",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "eslint plugin to detect unused tss-react makestyles",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/rodeyseijkens/eslint-plugin-tss-unused-makestyles/issues"
   },
-  "homepage": "https://github.com/rodeyseijkens/eslint-plugin-tss-unused-classes#readme",
+  "homepage": "https://github.com/rodeyseijkens/eslint-plugin-tss-unused-makestyles#readme",
   "peerDependencies": {
     "eslint": "^7.14.0 || ^8.0.0"
   },
